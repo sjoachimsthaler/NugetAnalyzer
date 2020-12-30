@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/nuget-analyzer.nuspec" Id="RA56B434F039D0B92" />
+  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/5efbdcf26f7f469eb5ce6142c5980b4d.psmdcp" Id="R4F2B5B4FFFFCF4AC" />
+</Relationships>
